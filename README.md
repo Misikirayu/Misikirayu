@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , Next**
 
-- 📫 How to reach me **misikirayalew9@gmail.com**
+- 📫 **misikirayalew9@gmail.com**
 
 - ⚡ Fun fact **always busy.**
 
