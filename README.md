@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mskr</h1>
-<h3 align="center">a frontend web dev</h3>
+<h3 align="center">WBB DEVELOPER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misikirayu&label=Profile%20views&color=0e75b6&style=flat" alt="misikirayu" /> </p>
 
